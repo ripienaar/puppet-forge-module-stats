@@ -43,6 +43,8 @@ There is a lot of scope for improvement to this script and more
 stats that can be pulled so this is probably just a starting point
 
 The API is documented at http://forgeapi.puppetlabs.com/apidoc
+and at present is not final so is subject to some changes, this
+should stabalize around early 2013
 
 Contact?
 --------
